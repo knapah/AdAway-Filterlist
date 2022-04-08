@@ -3,7 +3,7 @@
 - [10ZiN Host Database (Full)](https://tgc.cloud/downloads/hosts.txt)
 - [1Hosts (Mini)](https://o0.pages.dev/mini/hosts.txt) mini - Level 1: unblocks a number of ads & trackers for in-app rewards, anti-AdBlock, etc.
 - [1Hosts (Lite)](https://o0.pages.dev/Lite/hosts.txt) Lite - Level 2: set & forget, favours user experience (UX) over adblocking, balanced, recommended.
-- [1Hosts (Pro)](/Pro/hosts.txt) Pro - Level 3: prioritizes safety & privacy (adblocking) over UX e.g blocks graph.facebook.com.
+- [1Hosts (Pro)](https://o0.pages.dev/Pro/hosts.txt) Pro - Level 3: prioritizes safety & privacy (adblocking) over UX e.g blocks graph.facebook.com.
 - [1Hosts (Xtra)](https://o0.pages.dev/Xtra/hosts.txt) Xtra - Level 4: extremly aggressive & restrictive. Do not use unless you know what you're doing!
 - [1Hosts (kidSaf)](https://badmojr.gitlab.io/addons_1hosts/kidSaf/hosts.txt)
 - [Adblock by Jm](https://raw.githubusercontent.com/jmhenrique/adblock/master/etc/adblock_hosts)

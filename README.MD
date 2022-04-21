@@ -53,6 +53,11 @@
 - [ETH Phishing Detect](https://raw.githubusercontent.com/MetaMask/eth-phishing-detect/master/src/hosts.txt)
 - [Facebook Zero Hosts Block](https://raw.githubusercontent.com/kowith337/PersonalFilterListCollection/master/hosts/hosts_facebook0.txt)
 - [First-party trackers host list](https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt)
+- [GoodbyeAds](https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Hosts/GoodbyeAds.txt)
+- [Google AdService and ID.Google tracking hosts](https://raw.githubusercontent.com/kowith337/PersonalFilterListCollection/master/hosts/hosts_google_adservice_id.txt)
+- [Hakame-kun's Windows Host](https://raw.githubusercontent.com/Hakame-kun/uBlock-Filters-Indonesia/master/Windows%20Host/hosts)
+- [hBlock Hosts Mini](https://nixnet.services/hosts.txt)
+- [Hosts Blocking](https://raw.githubusercontent.com/michaeltrimm/hosts-blocking/master/_hosts.txt)
 
 <p align="center"><strong>Source:</strong> <br>
 <a href="https://filterlists.com/">FilterLists</a> <br>

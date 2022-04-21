@@ -1,10 +1,10 @@
 - [💊 Dandelion Sprout's Anti-Malware List](https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt)
 - [1024 Hosts](https://raw.githubusercontent.com/Goooler/1024_hosts/master/hosts)
 - [10ZiN Host Database (Full)](https://tgc.cloud/downloads/hosts.txt)
-- [1Hosts (Mini)](https://o0.pages.dev/mini/hosts.txt) mini - Level 1: unblocks a number of ads & trackers for in-app rewards, anti-AdBlock, etc.
-- [1Hosts (Lite)](https://o0.pages.dev/Lite/hosts.txt) Lite - Level 2: set & forget, favours user experience (UX) over adblocking, balanced, recommended.
-- [1Hosts (Pro)](https://o0.pages.dev/Pro/hosts.txt) Pro - Level 3: prioritizes safety & privacy (adblocking) over UX e.g blocks graph.facebook.com.
-- [1Hosts (Xtra)](https://o0.pages.dev/Xtra/hosts.txt) Xtra - Level 4: extremly aggressive & restrictive. Do not use unless you know what you're doing!
+- [1Hosts (Mini)](https://o0.pages.dev/mini/hosts.txt) - mini - Level 1: unblocks a number of ads & trackers for in-app rewards, anti-AdBlock, etc.
+- [1Hosts (Lite)](https://o0.pages.dev/Lite/hosts.txt) - Lite - Level 2: set & forget, favours user experience (UX) over adblocking, balanced, recommended.
+- [1Hosts (Pro)](https://o0.pages.dev/Pro/hosts.txt) - Pro - Level 3: prioritizes safety & privacy (adblocking) over UX e.g blocks graph.facebook.com.
+- [1Hosts (Xtra)](https://o0.pages.dev/Xtra/hosts.txt) - Xtra - Level 4: extremly aggressive & restrictive. Do not use unless you know what you're doing!
 - [1Hosts (kidSaf)](https://badmojr.gitlab.io/addons_1hosts/kidSaf/hosts.txt)
 - [Adblock by Jm](https://raw.githubusercontent.com/jmhenrique/adblock/master/etc/adblock_hosts)
 - [ABPIndo](https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/hosts.txt)
@@ -39,17 +39,17 @@
 - [Cybo's Hosts](https://raw.githubusercontent.com/Cybo1927/Hosts/master/Hosts)
 - [DataMaster Android AdBlock Hosts](https://raw.githubusercontent.com/DataMaster-2501/DataMaster-Android-AdBlock-Hosts/master/hosts)
 - [dnswarden Adblocking (Hosts)](https://raw.githubusercontent.com/dnswarden/blocklist/master/blacklist-formats/hosts)
-- [Energized Spark](https://energized.pro/spark/formats/hosts) True lightweight protection.
-- [Energized BluGo](https://energized.pro/bluGo/formats/hosts) Mid range lightweight protection-go!
-- [Energized Blu](https://energized.pro/blu/formats/hosts) Mid range lightweight protection.
-- [Energized Basic](https://energized.pro/basic/formats/hosts) Balanced protection.
-- [Energized Porn](https://energized.pro/porn/formats/hosts) Pornware blocking.
-- [Energized Ultimate](https://energized.pro/ultimate/formats/hosts) Flagship protection.
-- [Energize Unified](https://energized.pro/unified/formats/hosts) Flagship protection with pornware blocking.
-- [Energized extension/Porn Lite](https://energized.pro/extensions/porn-lite/formats/hosts) Lite pornware blocking.
-- [Energized extension/Social](https://energized.pro/extensions/social/formats/hosts) Block social apps and sites.
-- [Energized extension/Regional](https://energized.pro/extensions/regional/formats/hosts) Regional annoyance blocking.
-- [Energized extension/Xtreme](https://energized.pro/extensions/xtreme/formats/hosts) Privacy protection at its best.
+- [Energized Spark](https://energized.pro/spark/formats/hosts) - True lightweight protection.
+- [Energized BluGo](https://energized.pro/bluGo/formats/hosts) - Mid range lightweight protection-go!
+- [Energized Blu](https://energized.pro/blu/formats/hosts) - Mid range lightweight protection.
+- [Energized Basic](https://energized.pro/basic/formats/hosts) - Balanced protection.
+- [Energized Porn](https://energized.pro/porn/formats/hosts) - Pornware blocking.
+- [Energized Ultimate](https://energized.pro/ultimate/formats/hosts) - Flagship protection.
+- [Energize Unified](https://energized.pro/unified/formats/hosts) - Flagship protection with pornware blocking.
+- [Energized extension/Porn Lite](https://energized.pro/extensions/porn-lite/formats/hosts) - Lite pornware blocking.
+- [Energized extension/Social](https://energized.pro/extensions/social/formats/hosts) - Block social apps and sites.
+- [Energized extension/Regional](https://energized.pro/extensions/regional/formats/hosts) - Regional annoyance blocking.
+- [Energized extension/Xtreme](https://energized.pro/extensions/xtreme/formats/hosts) - Privacy protection at its best.
 - [ETH Phishing Detect](https://raw.githubusercontent.com/MetaMask/eth-phishing-detect/master/src/hosts.txt)
 - [Facebook Zero Hosts Block](https://raw.githubusercontent.com/kowith337/PersonalFilterListCollection/master/hosts/hosts_facebook0.txt)
 - [First-party trackers host list](https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt)
@@ -58,6 +58,20 @@
 - [Hakame-kun's Windows Host](https://raw.githubusercontent.com/Hakame-kun/uBlock-Filters-Indonesia/master/Windows%20Host/hosts)
 - [hBlock Hosts Mini](https://nixnet.services/hosts.txt)
 - [Hosts Blocking](https://raw.githubusercontent.com/michaeltrimm/hosts-blocking/master/_hosts.txt)
+- [hpHosts ATS](https://v.firebog.net/hosts/static/HPHosts/HostsAdServers.txt)
+- [hpHosts EMD](https://v.firebog.net/hosts/static/HPHosts/Hostsemd.txt)
+- [hpHosts EXP](https://v.firebog.net/hosts/static/HPHosts/Hostsexp.txt)
+- [hpHosts FSA](https://v.firebog.net/hosts/static/HPHosts/Hostsfsa.txt)
+- [hpHosts GRM](https://v.firebog.net/hosts/static/HPHosts/Hostsgrm.txt)
+- [hpHosts MMT](https://v.firebog.net/hosts/static/HPHosts/Hostsmmt.txt)
+- [hpHosts PHA](https://v.firebog.net/hosts/static/HPHosts/Hostspha.txt)
+- [infinitytec's blocklists - Ads and Trackers](https://raw.githubusercontent.com/infinitytec/blocklists/master/ads-and-trackers.txt)
+- [infinitytec's blocklists - Scams and Phishing](https://raw.githubusercontent.com/infinitytec/blocklists/master/scams-and-phishing.txt)
+- [iOS/Mobile Host Database](https://tgc.cloud/downloads/iOSAds.txt)
+- [iVOID.hosts](https://gitlab.com/intr0/iVOID.GitLab.io/raw/master/iVOID.hosts)
+- [Jansal's Hosts](https://raw.githubusercontent.com/lewisje/jansal/master/adblock/hosts)
+
+
 
 <p align="center"><strong>Source:</strong> <br>
 <a href="https://filterlists.com/">FilterLists</a> <br>
